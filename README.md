@@ -13,7 +13,7 @@ Pause and Resume functionality
 Restart option after Game Over
 Animated road divider effect
 Simple and clean UI design
-🛠️ Technologies Used
+Technologies Used:
 Python
 Pygame
 Game Preview:
